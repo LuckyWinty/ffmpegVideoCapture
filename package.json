@@ -1,0 +1,19 @@
+{
+  "name": "ffmpegvideocapture",
+  "version": "0.0.2",
+  "description": "ffmpeg 的 wasm 版本，一个为 umd 格式的 npm 包，用于快速测试前端截帧",
+  "main": "ffmpegCapture.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuckyWinty/ffmpegVideoCapture.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuckyWinty/ffmpegVideoCapture/issues"
+  },
+  "homepage": "https://github.com/LuckyWinty/ffmpegVideoCapture#readme"
+}
